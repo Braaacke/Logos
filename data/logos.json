@@ -1,0 +1,544 @@
+[
+  {
+    "name": "Apple",
+    "image": "apple.svg",
+    "aliases": []
+  },
+  {
+    "name": "Google",
+    "image": "google.svg",
+    "aliases": []
+  },
+  {
+    "name": "Facebook",
+    "image": "facebook.svg",
+    "aliases": [
+      "Meta"
+    ]
+  },
+  {
+    "name": "Instagram",
+    "image": "instagram.svg",
+    "aliases": []
+  },
+  {
+    "name": "WhatsApp",
+    "image": "whatsapp.svg",
+    "aliases": []
+  },
+  {
+    "name": "YouTube",
+    "image": "youtube.svg",
+    "aliases": []
+  },
+  {
+    "name": "Netflix",
+    "image": "netflix.svg",
+    "aliases": []
+  },
+  {
+    "name": "Spotify",
+    "image": "spotify.svg",
+    "aliases": []
+  },
+  {
+    "name": "Coca-Cola",
+    "image": "cocacola.svg",
+    "aliases": [
+      "Coca Cola",
+      "Coke",
+      "Cola"
+    ]
+  },
+  {
+    "name": "McDonald's",
+    "image": "mcdonalds.svg",
+    "aliases": [
+      "McDonalds",
+      "Mc Donalds"
+    ]
+  },
+  {
+    "name": "Starbucks",
+    "image": "starbucks.svg",
+    "aliases": []
+  },
+  {
+    "name": "Nike",
+    "image": "nike.svg",
+    "aliases": []
+  },
+  {
+    "name": "Adidas",
+    "image": "adidas.svg",
+    "aliases": []
+  },
+  {
+    "name": "Puma",
+    "image": "puma.svg",
+    "aliases": []
+  },
+  {
+    "name": "Samsung",
+    "image": "samsung.svg",
+    "aliases": []
+  },
+  {
+    "name": "Sony",
+    "image": "sony.svg",
+    "aliases": []
+  },
+  {
+    "name": "Tesla",
+    "image": "tesla.svg",
+    "aliases": [
+      "Tesla Motors"
+    ]
+  },
+  {
+    "name": "BMW",
+    "image": "bmw.svg",
+    "aliases": []
+  },
+  {
+    "name": "Audi",
+    "image": "audi.svg",
+    "aliases": []
+  },
+  {
+    "name": "Volkswagen",
+    "image": "volkswagen.svg",
+    "aliases": [
+      "VW"
+    ]
+  },
+  {
+    "name": "Porsche",
+    "image": "porsche.svg",
+    "aliases": []
+  },
+  {
+    "name": "Ferrari",
+    "image": "ferrari.svg",
+    "aliases": []
+  },
+  {
+    "name": "Toyota",
+    "image": "toyota.svg",
+    "aliases": []
+  },
+  {
+    "name": "Ford",
+    "image": "ford.svg",
+    "aliases": []
+  },
+  {
+    "name": "Honda",
+    "image": "honda.svg",
+    "aliases": []
+  },
+  {
+    "name": "PlayStation",
+    "image": "playstation.svg",
+    "aliases": []
+  },
+  {
+    "name": "Intel",
+    "image": "intel.svg",
+    "aliases": []
+  },
+  {
+    "name": "Nvidia",
+    "image": "nvidia.svg",
+    "aliases": []
+  },
+  {
+    "name": "AMD",
+    "image": "amd.svg",
+    "aliases": []
+  },
+  {
+    "name": "PayPal",
+    "image": "paypal.svg",
+    "aliases": []
+  },
+  {
+    "name": "Visa",
+    "image": "visa.svg",
+    "aliases": []
+  },
+  {
+    "name": "Mastercard",
+    "image": "mastercard.svg",
+    "aliases": []
+  },
+  {
+    "name": "Uber",
+    "image": "uber.svg",
+    "aliases": []
+  },
+  {
+    "name": "Airbnb",
+    "image": "airbnb.svg",
+    "aliases": []
+  },
+  {
+    "name": "X (Twitter)",
+    "image": "x.svg",
+    "aliases": [
+      "X",
+      "Twitter"
+    ]
+  },
+  {
+    "name": "TikTok",
+    "image": "tiktok.svg",
+    "aliases": []
+  },
+  {
+    "name": "Snapchat",
+    "image": "snapchat.svg",
+    "aliases": []
+  },
+  {
+    "name": "Pinterest",
+    "image": "pinterest.svg",
+    "aliases": []
+  },
+  {
+    "name": "Reddit",
+    "image": "reddit.svg",
+    "aliases": []
+  },
+  {
+    "name": "Telegram",
+    "image": "telegram.svg",
+    "aliases": []
+  },
+  {
+    "name": "Discord",
+    "image": "discord.svg",
+    "aliases": []
+  },
+  {
+    "name": "Zoom",
+    "image": "zoom.svg",
+    "aliases": [
+      "Zoom Video"
+    ]
+  },
+  {
+    "name": "Dropbox",
+    "image": "dropbox.svg",
+    "aliases": []
+  },
+  {
+    "name": "Tinder",
+    "image": "tinder.svg",
+    "aliases": []
+  },
+  {
+    "name": "eBay",
+    "image": "ebay.svg",
+    "aliases": []
+  },
+  {
+    "name": "Alibaba",
+    "image": "alibabadotcom.svg",
+    "aliases": [
+      "AliExpress"
+    ]
+  },
+  {
+    "name": "IKEA",
+    "image": "ikea.svg",
+    "aliases": []
+  },
+  {
+    "name": "HBO",
+    "image": "hbo.svg",
+    "aliases": []
+  },
+  {
+    "name": "Twitch",
+    "image": "twitch.svg",
+    "aliases": []
+  },
+  {
+    "name": "Shell",
+    "image": "shell.svg",
+    "aliases": []
+  },
+  {
+    "name": "Burger King",
+    "image": "burgerking.svg",
+    "aliases": [
+      "BurgerKing"
+    ]
+  },
+  {
+    "name": "KFC",
+    "image": "kfc.svg",
+    "aliases": []
+  },
+  {
+    "name": "Red Bull",
+    "image": "redbull.svg",
+    "aliases": [
+      "Redbull"
+    ]
+  },
+  {
+    "name": "Lidl",
+    "image": "lidl.svg",
+    "aliases": []
+  },
+  {
+    "name": "Lufthansa",
+    "image": "lufthansa.svg",
+    "aliases": []
+  },
+  {
+    "name": "Deutsche Bahn",
+    "image": "deutschebahn.svg",
+    "aliases": [
+      "DB",
+      "Bahn"
+    ]
+  },
+  {
+    "name": "DHL",
+    "image": "dhl.svg",
+    "aliases": []
+  },
+  {
+    "name": "FedEx",
+    "image": "fedex.svg",
+    "aliases": []
+  },
+  {
+    "name": "UPS",
+    "image": "ups.svg",
+    "aliases": []
+  },
+  {
+    "name": "Siemens",
+    "image": "siemens.svg",
+    "aliases": []
+  },
+  {
+    "name": "SAP",
+    "image": "sap.svg",
+    "aliases": []
+  },
+  {
+    "name": "Bosch",
+    "image": "bosch.svg",
+    "aliases": []
+  },
+  {
+    "name": "Nikon",
+    "image": "nikon.svg",
+    "aliases": []
+  },
+  {
+    "name": "Huawei",
+    "image": "huawei.svg",
+    "aliases": []
+  },
+  {
+    "name": "Xiaomi",
+    "image": "xiaomi.svg",
+    "aliases": []
+  },
+  {
+    "name": "LG",
+    "image": "lg.svg",
+    "aliases": []
+  },
+  {
+    "name": "Panasonic",
+    "image": "panasonic.svg",
+    "aliases": []
+  },
+  {
+    "name": "Lenovo",
+    "image": "lenovo.svg",
+    "aliases": []
+  },
+  {
+    "name": "HP",
+    "image": "hp.svg",
+    "aliases": []
+  },
+  {
+    "name": "Dell",
+    "image": "dell.svg",
+    "aliases": []
+  },
+  {
+    "name": "Asus",
+    "image": "asus.svg",
+    "aliases": []
+  },
+  {
+    "name": "Acer",
+    "image": "acer.svg",
+    "aliases": []
+  },
+  {
+    "name": "Android",
+    "image": "android.svg",
+    "aliases": [
+      "Google Android"
+    ]
+  },
+  {
+    "name": "Linux",
+    "image": "linux.svg",
+    "aliases": []
+  },
+  {
+    "name": "Firefox",
+    "image": "firefoxbrowser.svg",
+    "aliases": []
+  },
+  {
+    "name": "Chrome",
+    "image": "googlechrome.svg",
+    "aliases": [
+      "Google Chrome"
+    ]
+  },
+  {
+    "name": "Wikipedia",
+    "image": "wikipedia.svg",
+    "aliases": []
+  },
+  {
+    "name": "Booking.com",
+    "image": "bookingdotcom.svg",
+    "aliases": [
+      "Booking"
+    ]
+  },
+  {
+    "name": "Tripadvisor",
+    "image": "tripadvisor.svg",
+    "aliases": []
+  },
+  {
+    "name": "Hyundai",
+    "image": "hyundai.svg",
+    "aliases": [
+      "Hyundai Motor"
+    ]
+  },
+  {
+    "name": "Kia",
+    "image": "kia.svg",
+    "aliases": []
+  },
+  {
+    "name": "Volvo",
+    "image": "volvo.svg",
+    "aliases": []
+  },
+  {
+    "name": "Renault",
+    "image": "renault.svg",
+    "aliases": []
+  },
+  {
+    "name": "Peugeot",
+    "image": "peugeot.svg",
+    "aliases": []
+  },
+  {
+    "name": "Fiat",
+    "image": "fiat.svg",
+    "aliases": []
+  },
+  {
+    "name": "Opel",
+    "image": "opel.svg",
+    "aliases": []
+  },
+  {
+    "name": "Skoda",
+    "image": "skoda.svg",
+    "aliases": [
+      "Škoda"
+    ]
+  },
+  {
+    "name": "Mini",
+    "image": "mini.svg",
+    "aliases": [
+      "Mini Cooper"
+    ]
+  },
+  {
+    "name": "Lamborghini",
+    "image": "lamborghini.svg",
+    "aliases": []
+  },
+  {
+    "name": "Jeep",
+    "image": "jeep.svg",
+    "aliases": []
+  },
+  {
+    "name": "Under Armour",
+    "image": "underarmour.svg",
+    "aliases": []
+  },
+  {
+    "name": "New Balance",
+    "image": "newbalance.svg",
+    "aliases": []
+  },
+  {
+    "name": "H&M",
+    "image": "handm.svg",
+    "aliases": [
+      "H und M",
+      "HM"
+    ]
+  },
+  {
+    "name": "Zara",
+    "image": "zara.svg",
+    "aliases": []
+  },
+  {
+    "name": "Zalando",
+    "image": "zalando.svg",
+    "aliases": []
+  },
+  {
+    "name": "Deutsche Bank",
+    "image": "deutschebank.svg",
+    "aliases": []
+  },
+  {
+    "name": "American Express",
+    "image": "americanexpress.svg",
+    "aliases": []
+  },
+  {
+    "name": "Vodafone",
+    "image": "vodafone.svg",
+    "aliases": []
+  },
+  {
+    "name": "Steam",
+    "image": "steam.svg",
+    "aliases": []
+  },
+  {
+    "name": "GitHub",
+    "image": "github.svg",
+    "aliases": []
+  }
+]
